@@ -1,4 +1,4 @@
-package com.example.organizer
+package com.organizer.organizer
 
 import org.junit.Test
 
